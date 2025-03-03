@@ -1,0 +1,19 @@
+# STM32CubeIDE / Eclipse proje dosyalarý
+.settings/
+.project
+.cproject
+.mxproject
+.mxsystem
+.mxresources
+*.launch
+*.log
+
+# Derleme (build) klasörleri
+Debug/
+Release/
+
+# Geçici dosyalar
+*.swp
+*.tmp
+*.bak
+*~
